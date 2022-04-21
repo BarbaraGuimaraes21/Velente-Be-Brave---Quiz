@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+body {
+    background-image: url(https://colibriwp.com/blog/wp-content/uploads/2019/08/kseniya-lapteva-LdPFsNeCPGk-unsplash.jpg);
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 0 60px 0;
+    color: white;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+img {
+    margin: 10px 20px 30px 550px;
+    border: 20px solid white;
+}
