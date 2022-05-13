@@ -10,6 +10,7 @@
 
 body {
     background-image: url(https://colibriwp.com/blog/wp-content/uploads/2019/08/kseniya-lapteva-LdPFsNeCPGk-unsplash.jpg);
+    background-size: cover;
     min-width: 100vw;
     min-height: 150vh;
     padding: 5px 0px 0px 90px;
